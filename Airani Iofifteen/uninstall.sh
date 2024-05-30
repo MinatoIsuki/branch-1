@@ -6,7 +6,7 @@
 
 ROOT_UID=0
 THEME_DIR="/usr/share/grub/themes"
-THEME_NAME="HatsuneMiku16th"
+THEME_NAME="Iofi"
 
 MAX_DELAY=20                                        # max delay for user to enter root password
 
@@ -22,7 +22,7 @@ b_CDEF=" \033[1;37m"                                # bold default color
 b_CCIN=" \033[1;36m"                                # bold info color
 b_CGSC=" \033[1;32m"                                # bold success color
 b_CRER=" \033[1;31m"                                # bold error color
-b_CWAR=" \033[1;33m"  
+b_CWAR=" \033[1;33m"
 
 
 
@@ -44,15 +44,15 @@ prompt () {
 }
 
 # Welcome message
-  prompt -s "\n\t   ******************************************************\n\t   * Hatsune Miku 16th Special Edition Bootloader Theme *\n\t   ******************************************************\n
-                               GRUB Theme
+  prompt -s "\n\t            *************************************\n\t            * Airani Iofifteen Bootloader Theme *\n\t            *************************************\n
+                                 GRUB Theme
 
-                                   by
+                                     by
 
-               Andi Trisna Mukti and Juan Angeles Hernandez \n \n"
+                      Andi Trisna Mukti and Japar Sidik \n \n"
 
 
- 
+
 
 # checking command availability
 function has_command() {
@@ -61,7 +61,7 @@ function has_command() {
 
 
 prompt -i "Press enter to begin uninstallation${CDEF}(automatically uninstalling after 10s) ${b_CWAR}:${CDEF}"
-read -t10  
+read -t10
 
 #checking for root access
 prompt -w "\n Checking for root access...\n"
@@ -72,7 +72,7 @@ if [ "$UID" -eq "$ROOT_UID" ]; then
    rm -R ${THEME_DIR}/${THEME_NAME}
  fi
 
-  
+
   # remove grub config
   cp -an /etc/default/grub /etc/default/grub.bak
   sed -i '/GRUB_THEME=/d' /etc/default/grub
@@ -97,7 +97,7 @@ if [ "$UID" -eq "$ROOT_UID" ]; then
   # Success message
   prompt -s "\n\t            ****************************\n\t            * Successfully Uninstalled *\n\t            ****************************\n"
 
-  
+
 
 else
 

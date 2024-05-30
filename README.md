@@ -1,3 +1,37 @@
+## 🔖 Contents
+
+- <b>[🖥️ GRUB Themes](#grub-themes)</b>
+
+  - [💮 The Quintessential Quintuplets](#grub-themes)
+    - [Original Version](#art-preview-theme-)
+    - [Christmas Version](#1)
+  - [💮 VTuber Version](#2)
+  - [💮 Fate series Version](#3)
+    - [Artoria Pendragon Version](#art-preview-theme-artoria-pendragon)
+    - [Illyasviel von Einzbern Version](#art-preview-theme-illyasviel-von-einzbern)
+    - [Tohsaka Rin Version](#art-preview-theme-tohsaka-rin)
+    - [Matou Sakura Version](#art-preview-theme-matou-sakura)
+    - [Leonardo da Vinci Version](#art-preview-theme-leonardo-da-vinci)
+    - [Mash Kyrielight Version](#art-preview-theme-mash-kyrielight)
+    - [Okita Souji Version](#art-preview-theme-okita-souji)
+  - [💮 Lycoris Recoil Version](#4)
+  - [💮 Doki Doki Literature Club Version](#5)
+  - [💮 Touhou Project Version](#6)
+  - [💮 Vocaloid Version](#7)
+
+- <b>[🔧 Installation](#wrench-installation)</b>
+  - [First installation way](#one-first-installation-way)
+  - [Second installation way](#two-second-installation-way)
+  - [Third installation way](#three-third-installation-way)
+
+- <b>[©️ Copyright and Thanks note 💝](#gift_heart-thanks-to)</b>
+
+- <b>[📋 Notes](#-notes)</b>
+
+---
+
+###### *<p align="right"><sub>GRUB Themes</sub></p>*
+
 <p align="center">
 <a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-880174602" title="🇮🇩 Thanks a lot for supporting me 🙂"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dek172i-82303396-6927-4048-8c92-4222cb722982.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGVrMTcyaS04MjMwMzM5Ni02OTI3LTQwNDgtOGM5Mi00MjIyY2I3MjI5ODIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.o-QjIt9rOwQ-sWPnxPvjcgwxo7KWvpBfuWYVBfD5dv8" width="82%"></a>
 </p>
@@ -17,6 +51,8 @@
 </p>
 
 ---
+
+###### <p align="right"><sub>1</sub></p>
 
 <p align="center">
 <a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Christmas-Version-901853972" title="🇮🇩 Thanks a lot for supporting me 🙂"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dewxuz8-9c5b3f64-14cc-4a4d-98c6-e4822f15c23d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGV3eHV6OC05YzViM2Y2NC0xNGNjLTRhNGQtOThjNi1lNDgyMmYxNWMyM2QucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hh1PQ7S9Y4vqD3J10tG3f_AEq9DBn3la7ZqfIdT_96A" width="47%"></a>
@@ -38,6 +74,8 @@
 
 ---
 
+###### <p align="right"><sub>2</sub></p>
+
 <p align="center">
 <a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-VTuber-version-912599545" title="🇮🇩 Thanks a lot for supporting me 🙂"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/df3c6bd-b424792c-6ad2-45a9-838f-9d80bf215259.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGYzYzZiZC1iNDI0NzkyYy02YWQyLTQ1YTktODM4Zi05ZDgwYmYyMTUyNTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.U4rBsMDu-w8gQhkdu9S_95rQRB3SWzeNiwpAbB6jUyM" width="62%"></a>
 </p>
@@ -48,8 +86,13 @@
 <a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Hoshimati-Suisei-912600790" title="❤️ Hoshimati Suisei ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/df3c79y-900172d3-7418-482d-afcc-9cebcde4f417.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGYzYzc5eS05MDAxNzJkMy03NDE4LTQ4MmQtYWZjYy05Y2ViY2RlNGY0MTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EeVq43ESgcMPaEXrosP9IFI9yU9PENnJQ_e4NzOKLXE" width="49%"></a>
 <a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Kobo-Kanaeru-932176696" title="❤️ Kobo Kanaeru ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dfezs54-57f654dc-14db-45ad-9a4a-de2931a04867.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGZlenM1NC01N2Y2NTRkYy0xNGRiLTQ1YWQtOWE0YS1kZTI5MzFhMDQ4NjcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.gvRCiDleI2ZZwH24xEvN8mRwi7W52dQaQx5Ax8Nc2Kw" width="49%"></a>
 </p>
+<p align="center">
+<a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Airani-Iofifteen-1013037989" title="❤️ Airani Iofifteen ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dgr4x45-1e193fb3-5d49-4cf5-b4cf-420758ab28d9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGdyNHg0NS0xZTE5M2ZiMy01ZDQ5LTRjZjUtYjRjZi00MjA3NThhYjI4ZDkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rb0zyaNYVmIlk3LChDcv5X00ckP9PClHTk0P9z42__Y" width="49%"></a>
+</p>
 
 ---
+
+###### <p align="right"><sub>3</sub></p>
 
 <p align="center">
 <a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Fate-Series-version-921845338" title="🇮🇩 Thanks a lot for supporting me 🙂"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/df8ucey-8654e856-7a32-4abb-9fa2-a8d939833d6f.png/v1/fill/w_1267,h_631,strp/grub_theme__fate_series_version__by_13andi01_df8ucey-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjE2NCIsInBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGY4dWNleS04NjU0ZTg1Ni03YTMyLTRhYmItOWZhMi1hOGQ5Mzk4MzNkNmYucG5nIiwid2lkdGgiOiI8PTQzNDMifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.AvVKrxv4LuAVIou4GxSFe-NVlo8ucVM2QSmc4qPOSi4" width="85%"></a>
@@ -112,6 +155,26 @@
 
 ---
 
+###### <p align="right"><sub>4</sub></p>
+
+<p align="center">
+<a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Lycoris-Recoil-Version-1038471793" title="🇮🇩 Thanks a lot for supporting me 🙂"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dh6a1yp-9980c807-f8d7-4f5c-bece-d4dab4a7427b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGg2YTF5cC05OTgwYzgwNy1mOGQ3LTRmNWMtYmVjZS1kNGRhYjRhNzQyN2IucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._bVoGJQnG1JltlZrOqIZGGDFP7IKUOcnWamQC8kx9k8" width="90%"></a>
+</p>
+
+## :art: Preview theme
+
+<p align="center">
+<a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Nishikigi-Chisato-1038476260" title="❤️ Nishikigi Chisato ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dh6a5es-4ae182d3-1a65-4278-80d5-d056cbf3c258.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGg2YTVlcy00YWUxODJkMy0xYTY1LTQyNzgtODBkNS1kMDU2Y2JmM2MyNTgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ms6AKHyWlkJF_MjKt_qTANhjqs-2tmeQMhyWw-pvbhE" width="49%"></a>
+<a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Inoue-Takina-1038477897" title="❤️ Inoue Takina ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dh6a6o9-471553b5-fdb0-4e9b-97a5-fcd6d27c93f6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGg2YTZvOS00NzE1NTNiNS1mZGIwLTRlOWItOTdhNS1mY2Q2ZDI3YzkzZjYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-ir_ulSPswzqAm-L2RTtxTUnjOUJxfmxztu4xtw8w_I" width="49%"></a>
+</p>
+<p align="center">
+<a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Kurumi-1038477945" title="❤️ Kurumi ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dh6a6pl-b1c64936-6abe-4de4-b8c0-d73acf609356.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGg2YTZwbC1iMWM2NDkzNi02YWJlLTRkZTQtYjhjMC1kNzNhY2Y2MDkzNTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.j-K7PnhxiYii_UmnzvQLpwAfldZdWEWCn0TahgvkH70" width="49%"></a>
+</p>
+
+---
+
+###### <p align="right"><sub>5</sub></p>
+
 <p align="center">
 <a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-DDLC-Plus-Version-931734173" title="🇮🇩 Thanks a lot for supporting me 🙂"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dfeqaot-0083f761-dbe5-4f02-bcbf-c512bb730944.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGZlcWFvdC0wMDgzZjc2MS1kYmU1LTRmMDItYmNiZi1jNTEyYmI3MzA5NDQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kDIgCevYFCNEyWpvdhtRjvK7TOklxKjrhX_pLRLDJpA" width="62%"></a>
 </p>
@@ -132,6 +195,8 @@
 
 ---
 
+###### <p align="right"><sub>6</sub></p>
+
 <p align="center">
 <a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Touhou-Project-Version-957825056" title="🇮🇩 Thanks a lot for supporting me 🙂"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dfu9ijk-48a624e8-0e44-4133-95b6-ed8f9392473b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGZ1OWlqay00OGE2MjRlOC0wZTQ0LTQxMzMtOTViNi1lZDhmOTM5MjQ3M2IucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nxiokCkZuaVfEgHMeFfW2fUTUQLJo5vb8TxK8IBxTqw" width="72%"></a>
 </p>
@@ -143,6 +208,8 @@
 </p>
 
 ---
+
+###### <p align="right"><sub>7</sub></p>
 
 <p align="center">
 <a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Vocaloid-Version-985037601" title="🇮🇩 Thanks a lot for supporting me 🙂"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dgagrvl-1309d4a6-910c-4edf-bad3-56bd0de4614b.png/v1/fill/w_1135,h_704/grub_theme__vocaloid_version__by_13andi01_dgagrvl-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI0MCIsInBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGdhZ3J2bC0xMzA5ZDRhNi05MTBjLTRlZGYtYmFkMy01NmJkMGRlNDYxNGIucG5nIiwid2lkdGgiOiI8PTIwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.RXjHrV8ozBs_1Fl0wtAmHo_eKAuTfUPvYJcWd5JgRVI" width="62%"></a>
@@ -188,11 +255,14 @@
     ```
     sudo update-grub
     ```
+    ```sh
+    sudo grub-mkconfig -o /boot/grub/grub.cfg      #if you use Arch, use this instead "sudo update-grub"
+    ```
  - Reboot your PC
 
 ### :two: <b>Second installation way</b>
 
-- Download file from my Pling/Gnome-look ([TQQ Version](https://www.gnome-look.org/p/1526503/)), ([VTuber Version](https://www.gnome-look.org/p/1760905/)), ([Fate Series Version](https://www.pling.com/p/1850334)), ([DDLC Version](https://www.gnome-look.org/p/1915649))
+- Download file from my Pling/Gnome-look ([TQQ Version](https://www.gnome-look.org/p/1526503/)), ([VTuber Version](https://www.gnome-look.org/p/1760905/)), ([Fate Series Version](https://www.pling.com/p/1850334)), ([DDLC Version](https://www.gnome-look.org/p/1915649)), ([Lycoris Recoil Version](https://www.gnome-look.org/p/2143960/))
 - Extract it
 - Open terminal in the GRUB Theme folder you want to install
 - Setup the new GRUB
@@ -202,6 +272,9 @@
     ```
     ```
     sudo update-grub
+    ```
+    ```sh
+    sudo grub-mkconfig -o /boot/grub/grub.cfg      #if you use Arch, use this instead "sudo update-grub"
     ```
 - Reboot your PC
 
@@ -221,6 +294,9 @@
     ```
     sudo update-grub
     ```
+    ```sh
+    sudo grub-mkconfig -o /boot/grub/grub.cfg      #if you use Arch, use this instead "sudo update-grub"
+    ```
 - Reboot your PC
 
 ## :gift_heart: Thanks to
@@ -230,6 +306,7 @@
 - [The Quintessential Quintuplets](https://www.tbs.co.jp/anime/5hanayome/)
 - [Doki Doki Literature Club Plus!](https://ddlc.plus/)
 - [Touhou Project](https://global.touhoulostword.com/)
+- [Lycoris Recoil](https://lycorisrecoil.com/)
 - [DuckDuckGo](https://duckduckgo.com/)
 - [Google](https://www.google.com/)
 - [GitHub](https://github.com/)
@@ -239,8 +316,6 @@
 - [Pling](https://www.pling.com/)
 - [Gnome-Look](https://www.gnome-look.org/)
 - [DeviantArt](https://www.deviantart.com/)
-- [Linuxer Desktop Art](https://www.facebook.com/groups/linuxart/)
-- [Linux Indonesia](https://www.facebook.com/groups/2628445374043698/)
 
 ## :gift_heart: And big thanks to
 
@@ -254,6 +329,9 @@
 - [Big Boy Restaurant](https://fate-sn-hf3.bigboyjapan.co.jp/)
 - [Crypton Future Media, Inc.](https://www.crypton.co.jp/)
 - [Hatsune Miku Official Blog](https://blog.piapro.net/)
+- [Hololive ID](https://www.youtube.com/channel/UCfrWoRGlawPQDQxxeIDRP0Q/)
+- [Family Renders](https://www.familyrenders.com/)
+- [Fandom Website](https://www.fandom.com/)
 
 
 ### My Friend Chen Si Jing(a.k.a.星月なるこ)
@@ -271,6 +349,11 @@
 - [Twitter](https://twitter.com/mushonnip_x64)
 - [GitHub](https://github.com/mushonnip)
 
+### My Friend Japar Sidik
+
+- [Twitter](https://twitter.com/Sidik84503300)
+- [GitHub](https://github.com/Jersk41)
+
 ### VTuber Hoshimati Suisei
 
 - [Twitter](https://twitter.com/suisei_hosimati)
@@ -281,7 +364,12 @@
 - [Twitter](https://twitter.com/kobokanaeru)
 - [YouTube](https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw/)
 
-## 📋 Note
+### VTuber Airani Iofifteen
+
+- [Twitter](https://twitter.com/airaniiofifteen)
+- [YouTube](https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg/)
+
+## 📋 Notes
 
 <a href="https://count.getloli.com/">
     <img src="https://count.getloli.com/get/@GRUB-Theme.github?theme=rule34" title="🇮🇩 Thanks a lot for supporting me 🙂" alt="13atm01" align="right">
@@ -289,6 +377,11 @@
 
 - I would be glad if you give star in this repo and if many like it, maybe I will make another version
 - DDLC, Touhou Project, and Vocaloid version made by my friend [Juan Angeles Hernandez](https://github.com/JohnKun136NVCP), I'm just giving suggestions and improving it a bit
-- And version of VTuber Kobo Kanaeru made by my friend [Abu Mushonnip](https://github.com/mushonnip)
+- Version of VTuber Kobo Kanaeru made by my friend [Abu Mushonnip](https://github.com/mushonnip), And version of VTuber Airani Iofifteen made by my friend [Japar Sidik](https://github.com/Jersk41)
 - Because Touhou Project games do not have official websites, so we only include the website link of the game variant for copyright
-- I'm really confused about what version to make next
+- If you want to see an HD pict just click on the image, it will redirect to the [DeviantArt](https://www.deviantart.com/) website
+- New version is Lycoris Recoil version from the anime Lycoris Recoil
+
+<p align="center">
+  <a href="#-contents"><kbd> <br> Back to Top <br> </kbd></a>
+</p>
